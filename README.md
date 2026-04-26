@@ -1,5 +1,9 @@
 # Привет, я Фёдор 👋
 
+- Telegram: [@teodoroven](https://t.me/teodoroven)
+- GitHub: [teodoroven](https://github.com/teodoroven)
+- hh.ru: [Фёдор](https://perm.hh.ru/resume/2ddf79feff106cdad20039ed1f536a536d3869)
+
 **Python Developer / Backend / Automation / AI Integrations**
 
 Python-разработчик с коммерческим опытом в автоматизации бизнес-процессов, интеграциях с внешними API, чат-ботах, OCR и AI-powered решениях.
@@ -20,14 +24,6 @@ Python-разработчик с коммерческим опытом в авт
 - Поддерживаю проекты после внедрения: исправления, платные доработки и обновления под новые требования заказчиков
 
 ---
-
-## Контакты
-
-- Telegram: [@teodoroven](https://t.me/teodoroven)
-- GitHub: [teodoroven](https://github.com/teodoroven)
-- hh.ru: [Фёдор](https://perm.hh.ru/resume/fa9c34a4ff100ea6db0039ed1f316f734b466b)
-
---
 
 ## Основной стек
 
@@ -222,3 +218,10 @@ Parser, Edo и Bots используются в работе и продолжа
 
 Интересны позиции и проекты, где можно решать реальные прикладные задачи, работать с API, данными, backend-логикой и быстро расти технически.
 
+---
+
+## Контакты
+
+- Telegram: [@teodoroven](https://t.me/teodoroven)
+- GitHub: [teodoroven](https://github.com/teodoroven)
+- hh.ru: [Фёдор](https://perm.hh.ru/resume/2ddf79feff106cdad20039ed1f536a536d3869)
